@@ -24,10 +24,10 @@ I'm **Jim**, a passionate developer working on cool projects and exploring new t
 - 🎮 **Game Dev & Hosting:** Pterodactyl setups, Minecraft modding, custom plugins
 
 ### 🚀 What I'm Currently Up To
-- **Expanding Pumpkin Market** – API for devs to create custom endpoints
-- **Hosting & Infrastructure** – working on efficient self-hosted solutions
-- **Making Fun Stuff** – all the time
-- **Automation:** Working with AI, creating LLMs and seeing what I can tweak
+- **Expanding Pumpkin Market** — API for devs to create custom endpoints
+- **Hosting & Infrastructure** — working on efficient self-hosted solutions
+- **Making Fun Stuff** — all the time
+- **Automation** — Working with AI, creating LLMs and seeing what I can tweak
 
 ### 📫 Get in Touch
 - 💬 Discord: **jimster1**
