@@ -36,5 +36,6 @@ I'm **Jim**, a passionate developer working on cool projects and exploring new t
 ---
 
 ![jimster4312's Stats](https://github-readme-stats.vercel.app/api?username=jimster4312&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![jimster4312's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimster4312&theme=tokyonight&hide_border=true)
 
 > ⚡ Fun Fact: The first mac & cheese recipe was written in a **13th-century** Italian cookbook called *Liber de Coquina!*
