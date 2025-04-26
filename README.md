@@ -30,7 +30,7 @@ I'm **Jim**, a passionate developer working on cool projects and exploring new t
 - **Automation** — Working with AI, creating LLMs and seeing what I can tweak
 
 ### 📫 Get in Touch
-- 💬 Discord: **jimster1**
+- 💬 Discord: **jimster.dev**
 - 🌐 [TallDwarf Hosting](https://talldwarf.host/a/Jim)
 
 ---
