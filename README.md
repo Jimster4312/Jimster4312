@@ -53,13 +53,20 @@ Age 12 : Python
 : JavaScript
 Age 13 : PHP
 : MariaDB
-Age 14 : Laravel
+: Laravel
+Age 14 : TailwindCSS
 : Java
 : Docker Compose
+: Ubuntu Server
 Age 15 : Docker
 : Laravel Livewire
+: Apps of AI & LLMs
 Age 16 : React
 : React Native
+: N8N
+Next Steps : Networking
+: Rust?
+: Custom LLMs?
 ```
 <!--- ^^ Theres probably stuff I missed out, going to look back and check :) -->
 
