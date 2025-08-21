@@ -8,7 +8,7 @@ I'm **Jim**, a passionate developer working on cool projects and always explorin
 
 ### 🛠️ What I Do
 - 🌐 **Founder & Developer** at [TallDwarf Hosting](https://talldwarf.host/a/Jim)
-- 🛠️ **Building:** [Pumpkin Market](#) – Marketplace for PumpkinMC plugins
+- 🛠️ **Building:** [Pumpkin Market](https://market.pumpkinmc.org) – Marketplace for PumpkinMC plugins
 - 📜 **Experimenting with:** automation, AI integrations, and optimisation.
 
 ### 💡 Skills & Technologies
