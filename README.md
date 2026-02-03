@@ -4,7 +4,7 @@
 
 I'm **Jim**, a passionate developer working on cool projects and always exploring new things.
 
-> My portfolio is [here](https://jimster.dev) (wip)
+> My portfolio is [here](https://jimster.dev)
 
 ### 🛠️ What I Do
 - 🌐 **Founder & Developer** at [TallDwarf Hosting](https://talldwarf.host/a/Jim)
